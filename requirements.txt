@@ -1,0 +1,15 @@
+# requirements.txt
+# -----------------
+# This project uses ONLY Python standard library modules.
+# No external packages are required.
+#
+# Standard library modules used:
+#   - sqlite3   : SQLite database interface
+#   - datetime  : Date and time utilities
+#   - os        : Operating system interface (screen clear, path handling)
+#   - sys       : System-specific parameters and exit handling
+#
+# Python Version: 3.7+
+#
+# To run the application:
+#   python main.py
